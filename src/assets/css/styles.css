@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+h1 {
+    @apply text-4xl tracking-tighter font-bold text-center;
+}
+
+p {
+    @apply text-gray-800 text-4xl tracking-tighter font-bold text-center;
+}
+
+@tailwind utilities;
